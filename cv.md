@@ -30,3 +30,5 @@ return a * b
         - [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
         - [English course (Elementary level - A2)](http://www.ilh.by/)
         - [JavaScript (rsschool)](https://training.by/#!/Training/3080?lang=ru)
+
+
