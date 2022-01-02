@@ -14,7 +14,6 @@
 I have a wealth of experience in communicating with clients and building a trusting dialogue, ensuring the security of information, constantly learning new things and applying it with great pleasure in the IT field.
 
 ## **Skills**
-
 + HTML
 + CSS
 + JS (Basic)
