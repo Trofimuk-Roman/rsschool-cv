@@ -1,6 +1,7 @@
 ## [rsschool-cv](https://trofimuk-roman.github.io/rsschool-cv/) 
 
 ## Roman Trofimuk
+
 **Contacts**  
 ---
 + **Location:** Brest, Belarus
