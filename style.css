@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+  }
+.allCV{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px double rgb(14, 14, 14); /* Параметры границы */
+    border-style: ridge;
+    background: rgb(75, 87, 255); /* Цвет фона */
+    padding: 2px; /* Поля вокруг текста */
+    width: 50%;
+    margin: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+.h1{
+    background: rgb(230, 230, 230);
+    text-decoration: underline;
+    font-style: italic;
+    font-size: large;
+    text-decoration-color: cadetblue;
+}
+.m1{
+    background: rgb(230, 230, 230);
+}
+.f1{
+    background: rgb(230, 230, 230);
+    text-align: center; 
+}
+.n1{
+    background: rgb(167, 198, 223);
+    font-style: italic;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
